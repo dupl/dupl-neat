@@ -319,13 +319,9 @@ const openaiModels = [
 ];
 
 const googleModels = [
-  "gemini-1.0-pro",
   "gemini-1.5-pro-latest",
   "gemini-1.5-flash-latest",
-  "gemini-exp-1114",
-  "gemini-exp-1121",
-  "learnlm-1.5-pro-experimental",
-  "gemini-pro-vision",
+  "learnlm-2.0-flash-experimental",
   "gemini-2.0-flash-exp",
   "gemini-2.0-pro-exp-02-05",
 ];
